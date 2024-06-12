@@ -11,6 +11,7 @@ aiogram = "^3.6.0"
 requests = "^2.32.3"
 google-generativeai = "^0.6.0"
 python-dotenv = "^1.0.1"
+async-timeout = "^4.0.3"
 
 
 [build-system]
